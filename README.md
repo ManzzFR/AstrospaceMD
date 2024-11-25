@@ -20,7 +20,7 @@
 
 ---
 
-**Base:** [@Nurotomo](https://github.com/Nurotomo/wabot-aq)  
+**Base by:** [@davidpropero123](https://github.com/davidprospero123))  
 **Recode by:** [@ManzzFR](https://github.com/ManzzFR)  
 
 ---
