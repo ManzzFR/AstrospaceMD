@@ -1,7 +1,10 @@
 # ASTROSPACE-MD
 
 **Type:** Plugins ESM  
-**Total Fitur:** 999+  
+**Total Fitur:** 500+  
+
+Untuk Script nya masih di kembangin karena ada error.
+Kalau udah lumayan bakal di Upload ke Github ini...
 
 ---
 
@@ -20,25 +23,16 @@
 
 ---
 
-**Base by:** [@davidpropero123](https://github.com/davidprospero123))  
+**Base by:**
+[@davidpropero123](https://github.com/davidprospero123))  
+[@Zeltoria-ClaraMD](https://github.com/Zeltoria/Clara-MD))
+
 **Recode by:** [@ManzzFR](https://github.com/ManzzFR)  
 
 ---
 
 **ASTROSPACE-MD** is an ESM plugin with a total of 999+ features designed to simplify bot management. Features like RPG menus, downloaders, tools, mini-games, and various other menus make it an ideal choice to enhance your bot experience. With its simple interface and comprehensive functionality, ASTROBOT-MD provides an efficient and easy-to-use solution for various needs.
----------
-
-**SELL SCRIPT ASTROMD**  
-🏷️ **Price**: *Rp. 25.000*
-
----
-
-## 🛠️ **Benefits**:
-- Free Update
-- No Enc 100%
-
-## 🔧 **Additional Features**:
-- Non Additional Features
+--------
 
 ## 📝 **Requirement**:
 - NodeJS v18
