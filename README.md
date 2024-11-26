@@ -33,7 +33,8 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 
 ---
 
-**ASTROSPACE-MD** is an ESM plugin with a total of 999+ features designed to simplify bot management. Features like RPG menus, downloaders, tools, mini-games, and various other menus make it an ideal choice to enhance your bot experience. With its simple interface and comprehensive functionality, ASTROBOT-MD provides an efficient and easy-to-use solution for various needs.
+*ASTROSPACE-MD*
+`is an ESM plugin with a total of 500+ features designed to simplify bot management. Features like RPG menus, downloaders, tools, mini-games, and various other menus make it an ideal choice to enhance your bot experience. With its simple interface and comprehensive functionality, ASTROBOT-MD provides an efficient and easy-to-use solution for various needs.`
 --------
 
 ## 📝 **Requirement**:
