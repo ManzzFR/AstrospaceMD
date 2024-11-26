@@ -1,5 +1,3 @@
-
-- Ram Min. 5GB
 # ASTROSPACE-MD
 
 **Type:** Plugins ESM  
@@ -44,8 +42,8 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 
 ## 📞 **Kontak & Media Sosial**  
 - **Nomor Bot:** <a href="https://wa.me/62857059457516" target="_blank"><button>WA Bot</button></a>
-- **Channel Official:** <a href="https://whatsapp.com/channel/0029VaMwHM2JJhzOZyd1i737" target="_blank"><button>Astrospace • Channel</button></a>
-- **Group Chat:** <a href="https://chat.whatsapp.com/Gtcectx7SUcAy21Rk4s851" target="_blank"><button>Astrobot • Groups</button></a>
+- **Channel Official:** <a href="https://whatsapp.com/channel/0029VaMwHM2JJhzOZyd1i737" target="_blank"><button>Saluran WhatsApp</button></a>
+- **Group Chat:** <a href="https://chat.whatsapp.com/Gtcectx7SUcAy21Rk4s851" target="_blank"><button>Grup Bot</button></a>
 
 ---
 
