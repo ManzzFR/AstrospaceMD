@@ -3,7 +3,7 @@
 **Type:** Plugins ESM  
 **Total Fitur:** 500+  
 
-Untuk Script nya masih di kembangin karena ada error.
+Untuk Script nya masih di kembangin karena ada beberapa yang error.
 Kalau udah lumayan bakal di Upload ke Github ini...
 
 ---
@@ -23,8 +23,10 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 
 ---
 
-**Thanks To (Base yang dipakai):**
+**Thanks To:**
+
 [@davidpropero123](https://github.com/davidprospero123)
+
 [@Zeltoria-ClaraMD](https://github.com/Zeltoria/Clara-MD)
 
 **Recode by:** [@ManzzFR](https://github.com/ManzzFR)  
