@@ -23,9 +23,9 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 
 ---
 
-**Base by:**
-[@davidpropero123](https://github.com/davidprospero123))  
-[@Zeltoria-ClaraMD](https://github.com/Zeltoria/Clara-MD))
+**Thanks To (Base yang dipakai):**
+[@davidpropero123](https://github.com/davidprospero123)
+[@Zeltoria-ClaraMD](https://github.com/Zeltoria/Clara-MD)
 
 **Recode by:** [@ManzzFR](https://github.com/ManzzFR)  
 
