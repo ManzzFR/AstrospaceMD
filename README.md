@@ -52,3 +52,28 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 - FFMPEG
 - IMAGEMAGICK
 - Ram Min. 5GB
+
+
+# Project Name
+
+This repository demonstrates how to display images from a URL in a GitHub README file.
+
+## Images
+
+Below are images fetched from a URL, displayed directly on the GitHub page.
+
+1. ![Image 1](https://via.placeholder.com/150)  
+2. ![Image 2](https://via.placeholder.com/150)  
+3. ![Image 3](https://via.placeholder.com/150)  
+4. ![Image 4](https://via.placeholder.com/150)  
+5. ![Image 5](https://via.placeholder.com/150)  
+
+## View All Images
+
+To view all images:
+
+[View Image 1](#image-1)  
+[View Image 2](#image-2)  
+[View Image 3](#image-3)  
+[View Image 4](#image-4)  
+[View Image 5](#image-5)
