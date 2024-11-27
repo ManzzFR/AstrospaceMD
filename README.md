@@ -61,10 +61,10 @@ Berikut adalah tampilan dari bot:
 ### Menu Awal 
 <img src="https://pomf2.lain.la/f/7xwevei.png" alt="Menu awal" width="400px">
 
-### Preview 2  
-<img src="YOUR_IMAGE_URL_2" alt="Preview 2" width="400px">
+### ALLMENU
+<img src="https://pomf2.lain.la/f/1faoguzi.png" alt="Allmenu" width="400px">
 
-### Preview 3  
-<img src="YOUR_IMAGE_URL_3" alt="Preview 3" width="400px">
+### RPG MENU
+<img src="https://pomf2.lain.la/f/7uqo3gxk.png" alt="Preview 3" width="400px">
 
 ---
