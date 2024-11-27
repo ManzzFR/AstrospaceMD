@@ -54,18 +54,15 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 - Ram Min. 5GB
 
 
-# Project Name
+---
 
-This repository demonstrates how to display images from a URL directly on a GitHub README page.
+## 🖼️ **Preview Bot**
+Berikut adalah tampilan dari bot:
 
-## Images
+![Preview 1](YOUR_IMAGE_URL_1)  
+![Preview 2](YOUR_IMAGE_URL_2)  
+![Preview 3](YOUR_IMAGE_URL_3)  
+![Preview 4](YOUR_IMAGE_URL_4)  
+![Preview 5](YOUR_IMAGE_URL_5)
 
-Below are 5 images displayed directly from their URLs:
-
-1. ![Image 1](https://via.placeholder.com/150)
-2. ![Image 2](https://via.placeholder.com/150)
-3. ![Image 3](https://via.placeholder.com/150)
-4. ![Image 4](https://via.placeholder.com/150)
-5. ![Image 5](https://via.placeholder.com/150)
-
-Replace the placeholder URLs with the actual URLs of your images.
+---
