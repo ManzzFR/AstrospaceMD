@@ -59,10 +59,10 @@ Kalau udah lumayan bakal di Upload ke Github ini...
 ## 🖼️ **Preview Bot**
 Berikut adalah tampilan dari bot:
 
-![Preview 1](YOUR_IMAGE_URL_1)  
-![Preview 2](YOUR_IMAGE_URL_2)  
-![Preview 3](YOUR_IMAGE_URL_3)  
-![Preview 4](YOUR_IMAGE_URL_4)  
-![Preview 5](YOUR_IMAGE_URL_5)
+<img src="YOUR_IMAGE_URL_1" alt="Preview 1" width="400px">  
+<img src="YOUR_IMAGE_URL_2" alt="Preview 2" width="400px">  
+<img src="YOUR_IMAGE_URL_3" alt="Preview 3" width="400px">  
+<img src="YOUR_IMAGE_URL_4" alt="Preview 4" width="400px">  
+<img src="YOUR_IMAGE_URL_5" alt="Preview 5" width="400px">
 
 ---
