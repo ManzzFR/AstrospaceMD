@@ -1,40 +1,29 @@
 {
-    "name": "Nexora MD",
-    "version": "10.18.0",
-    "description": "ClaraMD Recode by ManzzFR",
+    "name": "XMYULA-MD",
+    "version": "4.5.5",
+    "description": "Dont forget the star",
     "main": "index.js",
     "type": "module",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "plugins": "plugins"
+        "plugins": "plugins",
+        "json": "json"
     },
     "scripts": {
         "start": "node index.js",
         "test": "node test.js"
     },
-    "keywords": [
-        "termux-whatsapp-bot",
-        "whatsapp-bot",
-        "whatsapp",
-        "js-whatsapp",
-        "whatsapp",
-        "Games-wabot",
-        "wabot-aq",
-        "multi-device",
-        "MD",
-        "baileys-md"
-    ],
-    "homepage": "https://github.com/ManzzFR/Nexora",
+    "homepage": "https://github.com/XM4ZE/XMYULA-MD",
     "author": {
-        "name": "ManzzFR"
+        "name": "XM4ZE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ManzzFR/NexoraMD.git"
+        "url": "git+https://github.com/XM4ZE/XMYULA-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/ManzzFR/NexoraMD/issues"
+        "url": "https://github.com/XM4ZE/XMYULA-MD/issues"
     },
     "license": "MIT",
     "dependencies": {
