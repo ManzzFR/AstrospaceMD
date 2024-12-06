@@ -1607,18 +1607,8 @@ global.dfail = (type, m, conn) => {
 		rpg: 'ғɪᴛᴜʀ ɪɴɪ ʙᴇʟᴜᴍ ᴅɪᴀᴋᴛɪғᴋᴀɴ ᴅɪ ɢʀᴜᴘ ɪɴɪ. ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴋᴛɪғᴋᴀɴ *ᴀᴅᴍɪɴ* ʜᴀʀᴜs ᴍᴇɴɢᴇᴛɪᴋ *.ᴏɴ ʀᴘɢ* ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴋᴛɪғᴋᴀɴ',
 		game: 'ғɪᴛᴜʀ ɪɴɪ ʙᴇʟᴜᴍ ᴅɪᴀᴋᴛɪғᴋᴀɴ ᴅɪ ɢʀᴜᴘ ɪɴɪ. ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴋᴛɪғᴋᴀɴ *ᴀᴅᴍɪɴ* ʜᴀʀᴜs ᴍᴇɴɢᴇᴛɪᴋ *.ᴏɴ ɢᴀᴍᴇ* ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴋᴛɪғᴋᴀɴ',
 		xmaze: 'This group does not allow this feature to be used. please join this group:\nhttps://chat.whatsapp.com/Gtcectx7SUcAy21Rk4s851\n\n disable this feature by writing .enable allfitur',
-		restrict: `*FEATURES TURNED OFF BY OWNERS*',
-		unreg: 'ʜᴀʟᴏ ᴋᴀᴋ..
-sᴇʙᴇʟᴜᴍ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ғɪᴛᴜʀ ɪɴɪ, ᴋᴀᴍᴜ ʜᴀʀᴜs ᴛᴇʀᴅᴀғᴛᴀʀ ᴅɪ ᴅᴀᴛᴀʙᴀsᴇ ʙᴏᴛ ᴀɢᴀʀ ɪɴғᴏʀᴍᴀsɪ ʟɪᴍɪᴛ ᴋᴀᴍᴜ ᴀᴋᴛɪғ.
-
-*ᴄᴀʀᴀ ᴅᴀғᴛᴀʀ*
-*_ᴠᴇʀsɪ ᴍᴀɴᴜᴀʟ :_*
-.ᴅᴀғᴛᴀʀ ɴᴀᴍᴀ.ᴜᴍᴜʀ
-*_ᴄᴏɴᴛᴏʜ:_*
-.daftar astrobot.20
-
-_*ᴠᴇʀsɪ ᴏᴛᴏᴍᴀᴛɪs :*_
-ʜᴀɴʏᴀ ᴘᴇʀʟᴜ ᴋᴇᴛɪᴋ @verify`
+		restrict: '*FEATURES TURNED OFF BY OWNERS*',
+		unreg: 'ʜᴀʟᴏ ᴋᴀᴋ.., sᴇʙᴇʟᴜᴍ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ғɪᴛᴜʀ ɪɴɪ, ᴋᴀᴍᴜ ʜᴀʀᴜs ᴛᴇʀᴅᴀғᴛᴀʀ ᴅɪ ᴅᴀᴛᴀʙᴀsᴇ ʙᴏᴛ ᴀɢᴀʀ ɪɴғᴏʀᴍᴀsɪ ʟɪᴍɪᴛ ᴋᴀᴍᴜ ᴀᴋᴛɪғ.\n\n*ᴄᴀʀᴀ ᴅᴀғᴛᴀʀ*\n*_ᴠᴇʀsɪ ᴍᴀɴᴜᴀʟ :_*\n.ᴅᴀғᴛᴀʀ ɴᴀᴍᴀ.ᴜᴍᴜʀ\n*_ᴄᴏɴᴛᴏʜ:_*\n.daftar astrobot.20\n\n_*ᴠᴇʀsɪ ᴏᴛᴏᴍᴀᴛɪs :*_\nʜᴀɴʏᴀ ᴘᴇʀʟᴜ ᴋᴇᴛɪᴋ @verify'
 	} [type]
 
 	if (msg) return m.reply('\`ᴀᴋsᴇs ʙᴇʟᴜᴍ ᴅɪ ɪᴢɪɴᴋᴀɴ - ʙᴀᴄᴀ ɪɴsᴛʀᴜᴋsɪ ᴅɪʙᴀᴡᴀʜ !\`\n\n' + msg)
