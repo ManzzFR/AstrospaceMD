@@ -1,32 +1,42 @@
-# ASTROSPACE-MD
+# **ASTROSPACE-MD**
 
 **Type:** Plugins ESM  
-**Total Fitur:** 500+  
+**Total Features:** 500+  
 
 ---
-req fitur/lapor bug: ngl.link/manzzfr
 
-link ch:
-whatsapp.com/channel/0029VaMwHM2JJhzOZyd1i737
+### **Get Help & Report Bugs**  
+[Feature Requests / Bug Reports](https://ngl.link/manzzfr)  
+
 ---
-*✨ Thanks To ✨:*
 
-*- Allah SWT*
-*- My Parents*
-*- Friends*
-*- and which supports bot development*
+### **Join the Community**  
+[Official Channel](https://whatsapp.com/channel/0029VaMwHM2JJhzOZyd1i737)  
 
-*- Adiwajsing*: github.com/adiwajshing
-*- Nurutomo*: github.com/Nurutomo
-*- Satrio*: github.com/Tiooxy
-*- XMAZE*: github.com/XMAZE
-*- ClayzaAubert*: github.com/ClayzaAubert
-*- Zeltoria*: github.com/Zeltoria/Clara-MD
-*- YanXiao*: github.com/ImYanXiao
-*- and other bot developers*
+---
 
-*Penyedia API*
-*- Betabotz:* api.betabotz.eu.org 
-*- Botcahx:* api.botcahx.eu.org
-*- LolHuman:* api.lolhuman.xyz
-*- and other API service providers*
+## **✨ Acknowledgments ✨**
+
+### **Gratitude to:**  
+- **Allah SWT**  
+- **My Parents**  
+- **Friends**  
+- **All those who support bot development**
+
+### **Special Thanks To:**
+- [Adiwajsing](https://github.com/adiwajshing)  
+- [Nurutomo](https://github.com/Nurutomo)  
+- [Satrio](https://github.com/Tiooxy)  
+- [XMAZE](https://github.com/XMAZE)  
+- [ClayzaAubert](https://github.com/ClayzaAubert)  
+- [Zeltoria](https://github.com/Zeltoria/Clara-MD)  
+- [YanXiao](https://github.com/ImYanXiao)  
+- **And many other bot developers**
+
+---
+
+### **API Providers:**
+- [Betabotz](https://api.betabotz.eu.org)  
+- [Botcahx](https://api.botcahx.eu.org)  
+- [LolHuman](https://api.lolhuman.xyz)  
+- **And other API service providers**
