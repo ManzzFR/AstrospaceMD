@@ -42,7 +42,7 @@ global.info = {
 global.owner = ['33189313251'] // Ganti pakai nomor kalian
 global.xmaze = ['33189313251'] // Ganti pakai nomor kalian
 
-global.mods = ['19419318284', '33189313251' // Opsional boleh ganti atau tidak 
+global.mods = ['19419318284', '33189313251'] // Opsional boleh ganti atau tidak 
 global.prems = ['19419318284', '33189313251'] // Opsional boleh ganti atau tidak 
 
 
@@ -443,13 +443,13 @@ global.rpg = {
         croissant: '🥐',
         baguette: '🥖',
         macaron: '🍲',
-        bacon: '🥓'
+        bacon: '🥓',
         vodka: '🥂',
         wine: '🍷',
         coffe: '☕',
         matcha: '🍵',
         kelp: '🧃',
-        boba: '🧋'
+        boba: '🧋',
         candy: '🍬',
         lolipop: '🍭',
         cokelat: '🍫',
