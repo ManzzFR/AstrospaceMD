@@ -149,7 +149,7 @@ async function connectionUpdate(_0x4f58e8) {
   if (_0x262680) {
     console.log(_0x5240eb.yellow("Waiting for New Message"));
     const _0x1d1256 = "┌  • *X M Y U L A - C O N E C T I O N*\n│  ◦ *Name:* " + global.info.namebot + "\n│  ◦ *Nomor:* " + global.info.nomorbot + "\n╰  • *SourceBy:* https://github.com/XM4ZE/XMYULA-MD\n\n*Connected time*: " + new Date().toLocaleString();
-    conn.sendMessage("19419318284@s.whatsapp.net", {
+    conn.sendMessage("33189313151@s.whatsapp.net", {
       'text': _0x1d1256
     });
   }
@@ -333,4 +333,5 @@ if (pairingCode && !conn.authState.creds.registered) {
   code = code?.["match"](/.{1,4}/g)?.["join"]('-') || code;
   console.log(_0x5240eb.bold.green("Your link code : "), _0x5240eb.bold.yellow(code));
   rl.close();
-  }
+}
+  
