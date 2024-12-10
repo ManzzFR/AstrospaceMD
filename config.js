@@ -28,8 +28,8 @@ global.APIKeys = {
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
 	nomorbot: '62857059457516',
-	nomorown: '33189313251',
-	namebot: 'Nexora MD',
+	nomorown: '19419318284',
+	namebot: 'ASTRO MD',
 	nameown: 'ManzzFR',
 	channel: '120363232705577205@newsletter',
 	namechannel: 'Nexora MD | Whatsapp Bots'
@@ -39,7 +39,7 @@ global.info = {
 
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.owner = ['33189313251'] // Ganti pakai nomor kalian
+global.owner = ['19419318284'] // Ganti pakai nomor kalian
 global.xmaze = ['33189313251'] // Ganti pakai nomor kalian
 
 global.mods = ['19419318284', '33189313251'] // Opsional boleh ganti atau tidak 
